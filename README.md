@@ -40,7 +40,9 @@ Screenshots/menu_principal.png
 
 ### 📋 Cardápio
 
-![Cardápio](Screenshots/card# 🛒 Carrinho de Compras
+Screenshots/cardapio.png
+
+### 🛒 Carrinho de Compras
 
 Screenshots/carrinho.png
 
