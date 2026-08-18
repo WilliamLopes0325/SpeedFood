@@ -40,15 +40,15 @@ Screenshots/menu_principal.png
 
 ## 📋 Cardápio
 
-![Cardápio](Screenshotsg
+Screenshots/cardapio.png
 
 ## 🛒 Carrinho
 
-![Carrinhos/carrinho.png
+![Carrinho](Screenshots/
 
 ## ✅ Pedido Finalizado
 
-![Pedido Finalizado](Screenshots/p
+![Pedido ts/pedido_finalizado.png
 
 ---
 
