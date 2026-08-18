@@ -36,19 +36,19 @@ Sistema de gerenciamento de pedidos para lanchonete desenvolvido em Python.
 
 ## 🍔 Menu Principal
 
-Screenshots/Menu_principal.png
+Screenshots/menu_principal.png
 
 ## 📋 Cardápio
 
-Screenshots/Cardápio.png
+![Cardápio](Screenshotsg
 
-## 🛒 Carrinho de Compras
+## 🛒 Carrinho
 
-Screenshots/Carrinho.png
+![Carrinhos/carrinho.png
 
 ## ✅ Pedido Finalizado
 
-Screenshots/Pedido_finalizado.png
+![Pedido Finalizado](Screenshots/p
 
 ---
 
