@@ -56,3 +56,6 @@ Screenshots/Pedido_finalizado.png
 
 **William Lopes**
 
+🎓 Estudante de Engenharia de Software
+
+🔧 Técnico de Manutenção Industrial e Tecnologia.
