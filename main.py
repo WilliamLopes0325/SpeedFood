@@ -166,11 +166,11 @@ while True:
             print(
                 f"-{dados['quantidade']}x "
                 f"{nome}"
-                f"(R$ {subtotal:;2f})"
+                f"(R$ {subtotal:.2f})".replace("." , ",")
             )
-            
+
         print(f"Pagamento: {forma_escolhida}")
-        print(f"Total: R$ {total:.2f}")
+        print(f"(Total: R$ {total:.2f})".replace("." , ","))
 
         print("\n🚚 Pedido enviado com sucesso!")
 
